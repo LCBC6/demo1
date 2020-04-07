@@ -1,0 +1,1 @@
+好像不会写等等学了再写或直接先用sqlyog创建一个demo数据库加一张users表（ID，username，password）
